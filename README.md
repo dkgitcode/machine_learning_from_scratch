@@ -1,5 +1,5 @@
 # Machine Learning From Scratch
-A series of repos by `dk` to exlplain and implement of an assortment of classic machine learning & statistical concepts.
+A series of repos by `dk` to explain and implement of an assortment of classic machine learning & statistical concepts.
 
 ### Multi Layer Perceptron from Scratch
 A multi layer perceptron trained on Cencus Income dataset using mini batch gradient descent.
